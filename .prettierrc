@@ -1,0 +1,18 @@
+{
+  "tabWidth": 2,
+  "useTabs": false,
+  "trailingComma": "es5",
+  "singleQuote": true,
+  "singleAttributePerLine": false,
+  "semi": false,
+  "resolveGlobalModules": false,
+  "quoteProps": "as-needed",
+  "proseWrap": "preserve",
+  "printWidth": 100,
+  "jsxSingleQuote": true,
+  "htmlWhitespaceSensitivity": "css",
+  "endOfLine": "lf",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "prettier.arrowParens": "always"
+}
