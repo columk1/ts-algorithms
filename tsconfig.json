@@ -1,6 +1,7 @@
 {
   "extends": "@tsconfig/node21/tsconfig.json",
   "compilerOptions": {
+    "lib": ["es2023", "dom"],
     "useDefineForClassFields": true,
     "resolveJsonModule": true,
     "baseUrl": ".",
